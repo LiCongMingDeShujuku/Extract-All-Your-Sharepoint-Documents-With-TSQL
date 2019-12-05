@@ -160,6 +160,7 @@ select  (@file_extraction) for xml path(''), type
 --	删除表格##sample_collection
 ```
 One point I would like to make is I noticed that some documents (both pdf and doc) will periodically be (or appear to be) empty files, but the size of the file usually shows bytes so there should be some data in there. For whatever reason; I’m not able to see the content post download. This has been random, and it could be that teh files are checked out, but I cannot say for certain. It’s been maybe 1 of every 200 documents or so. If anyone has tips on what is causing this; please post a comment. 
+
 我注意到一些文档（pdf和doc）将定期（或看起来）是空文件，但文件的大小通常显示有字节，因此应该有一些数据。不管出于什么原因我无法看到下载后的内容。这是随机的，可能是文件被检出，但我不确定。这可能是每200份文件中的一份左右。如果有人知道造成这种情况的原因，请发表评论。
 
 [![WorksEveryTime](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://shitday.de/)
